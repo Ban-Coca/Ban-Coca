@@ -60,8 +60,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ban-Coca&theme=dark" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ban-Coca&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ###
