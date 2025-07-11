@@ -60,6 +60,8 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ban-Coca&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ban-Coca&theme=dark&hide_border=true" height="220" alt="streak graph"  />
+</div>
 
 ###
