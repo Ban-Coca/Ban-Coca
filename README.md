@@ -75,14 +75,14 @@ Detail-oriented **Full-Stack Developer** with internship experience across backe
 <h2>◈ GitHub activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ban-Coca&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0a7ea4&icon_color=f4b942" height="165" alt="Ban Coca's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ban-Coca&theme=github_dark" height="165" alt="Ban Coca's GitHub statistics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ban-Coca&hide_border=true&theme=transparent&ring=0a7ea4&fire=f4b942&currStreakLabel=0a7ea4" height="165" alt="Ban Coca's GitHub streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ban-Coca&layout=compact&hide_border=true&theme=transparent&title_color=0a7ea4" height="150" alt="Ban Coca's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ban-Coca&theme=github_dark" height="150" alt="Ban Coca's repository languages" />
 </div>
 
 <br>
